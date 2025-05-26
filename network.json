@@ -1,0 +1,64 @@
+{
+    "Destination_0": [
+        {
+            "capacity": 6,
+            "destination": "Sink"
+        }
+    ],
+    "Destination_1": [
+        {
+            "capacity": 10,
+            "destination": "Sink"
+        }
+    ],
+    "Drone_0": [
+        {
+            "capacity": 1,
+            "destination": "Destination_0"
+        },
+        {
+            "capacity": 2,
+            "destination": "Destination_1"
+        }
+    ],
+    "Drone_1": [
+        {
+            "capacity": 2,
+            "destination": "Destination_0"
+        },
+        {
+            "capacity": 5,
+            "destination": "Destination_1"
+        }
+    ],
+    "Source": [
+        {
+            "capacity": 13,
+            "destination": "Warehouse_0"
+        },
+        {
+            "capacity": 7,
+            "destination": "Warehouse_1"
+        }
+    ],
+    "Warehouse_0": [
+        {
+            "capacity": 7,
+            "destination": "Drone_0"
+        },
+        {
+            "capacity": 8,
+            "destination": "Drone_1"
+        }
+    ],
+    "Warehouse_1": [
+        {
+            "capacity": 10,
+            "destination": "Drone_0"
+        },
+        {
+            "capacity": 8,
+            "destination": "Drone_1"
+        }
+    ]
+}
