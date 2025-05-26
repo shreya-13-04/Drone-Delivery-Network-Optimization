@@ -1,7 +1,7 @@
 # Efficient Drone Delivery Network Optimization
 
-⚪
-##Project Overview
+
+## ⚪ Project Overview
 
 This project focuses on optimizing drone delivery networks using advanced flow algorithms. The main goal is to efficiently maximize delivery capacity and prioritize high-weight packages while minimizing delivery costs.
 
