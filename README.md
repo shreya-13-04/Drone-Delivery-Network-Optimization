@@ -46,12 +46,15 @@ python algorithms/edmonds_karp.py
 ```
 
 ##Contributions
+
 This project was developed as a team effort for the Data Structures and Algorithms course. Contributions include algorithm implementation, analysis, and report writing.
 
 ##License
+
 This project is open-source and available under the MIT License.
 
 ##Contact
+
 For queries or contributions, feel free to reach out or open an issue on the GitHub repository.
 
 © 2025 Shreya and Team
