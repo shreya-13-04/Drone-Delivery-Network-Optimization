@@ -45,16 +45,16 @@ python algorithms/ford_fulkerson.py
 python algorithms/edmonds_karp.py
 ```
 
-##Contributions
+## Contributions
 
-This project was developed as a team effort for the Data Structures and Algorithms course. Contributions include algorithm implementation, analysis, and report writing.
+This project was developed as a team effort for the **Data Structures and Algorithms** course.  
+Contributions include algorithm implementation, analysis, and report writing.
 
-##License
+## License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the **MIT License**.
 
-##Contact
+## Contact
 
-For queries or contributions, feel free to reach out or open an issue on the GitHub repository.
+For queries or contributions, feel free to reach out or open an issue on the [GitHub repository](https://github.com/shreya-13-04/Drone-Delivery-Network-Optimization).
 
-© 2025 Shreya and Team
