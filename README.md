@@ -24,30 +24,34 @@ We implement and analyze the following algorithms to solve the maximum flow and 
 ```bash
 git clone https://github.com/shreya-13-04/Drone-Delivery-Network-Optimization.git
 cd Drone-Delivery-Network-Optimization
-
+```
 
 2.(Optional) Create and activate a virtual environment:
 
+```bash
 python -m venv venv
 source venv/bin/activate    # Linux/Mac
 venv\Scripts\activate       # Windows
+```
 
 3.Install dependencies:
-
+```bash
 pip install -r requirements.txt
-
+```
 4.Run the algorithm scripts or notebooks:
 
+```bash
 python algorithms/ford_fulkerson.py
 python algorithms/edmonds_karp.py
+```
 
-Contributions
+##Contributions
 This project was developed as a team effort for the Data Structures and Algorithms course. Contributions include algorithm implementation, analysis, and report writing.
 
-License
+##License
 This project is open-source and available under the MIT License.
 
-Contact
+##Contact
 For queries or contributions, feel free to reach out or open an issue on the GitHub repository.
 
 © 2025 Shreya and Team
