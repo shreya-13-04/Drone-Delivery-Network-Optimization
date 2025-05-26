@@ -11,6 +11,17 @@ We implement and analyze the following algorithms to solve the maximum flow and 
 - **Capacity Scaling Algorithm** to prioritize packages by weight  
 - **Successive Shortest Path Algorithm** for cost-based delivery optimization
 
+## Topics Covered
+
+- Flow Networks and Maximum Flow Problems
+- Graph Representation and Edge Capacity Modeling
+- Ford-Fulkerson Algorithm
+- Edmonds-Karp Algorithm (BFS-based Max Flow)
+- Capacity Scaling Algorithm
+- Successive Shortest Path Algorithm (Min-Cost Max Flow)
+- Drone Delivery Network Simulation
+- Performance Analysis and Comparison
+
 ## Technologies and Tools
 
 - Python 3.x  
