@@ -1,6 +1,6 @@
 # Efficient Drone Delivery Network Optimization
 
-##⚪Project Overview
+⚪##Project Overview
 
 This project focuses on optimizing drone delivery networks using advanced flow algorithms. The main goal is to efficiently maximize delivery capacity and prioritize high-weight packages while minimizing delivery costs.
 
@@ -11,7 +11,7 @@ We implement and analyze the following algorithms to solve the maximum flow and 
 - **Capacity Scaling Algorithm** to prioritize packages by weight  
 - **Successive Shortest Path Algorithm** for cost-based delivery optimization
 
-##⚪Topics Covered
+##Topics Covered
 
 - Flow Networks and Maximum Flow Problems
 - Graph Representation and Edge Capacity Modeling
